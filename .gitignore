@@ -1,0 +1,17 @@
+.DS_Store
+/.gradle/
+/bin/
+/.project
+/gradlew
+/gradlew.bat
+/.classpath
+/.settings
+/gradle/
+/src/main/resources/Engine.svc
+/db
+/build
+.idea/
+parts.json
+sql-old/
+wildfly/
+/sql/mysql/full-script.sql
